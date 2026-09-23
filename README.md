@@ -18,7 +18,8 @@ This repository contains the source code for **Activity 3.2 - Currency Conversio
 
 Ensure you have the following installed:
 - Git
-- Your programming environment (e.g., Python, Node.js, or C++ depending on implementation)
+- Your programming environment (Visual Studio 2022, C#)
+- 
 
 ### Setup Instructions
 
