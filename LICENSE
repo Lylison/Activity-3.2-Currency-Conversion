@@ -1,0 +1,9 @@
+# 1. Create and open the LICENSE file
+nano LICENSE
+
+# 2. Paste your license text (e.g., MIT License text), save, and exit
+
+# 3. Commit and push to GitHub
+git add LICENSE
+git commit -m "Add MIT License"
+git push origin main
